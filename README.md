@@ -73,7 +73,6 @@ $ make test
 ### Other Contacts
 
 - **Rashmi Shetty**, Development Manager at London Borough of Hackney (rashmi.shetty@hackney.gov.uk)
-- **Cormac Brady**, Developer at [Made Tech][made-tech] (cormac@madetech.com)
 
 
 [docker-download]: https://www.docker.com/products/docker-desktop
